@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋!</h2>
 
 ###### Sobre o Fabricio
-Cursando Análise e Desenvolvimento de Sistemas, desenvolvedor WEB, buscando experiência para agregar na minha vida profissional.
+Cursando Análise e Desenvolvimento de Sistemas, desenvolvedor WEB, buscando novas experiencias para agregar na minha vida profissional.
 
 ###
 
