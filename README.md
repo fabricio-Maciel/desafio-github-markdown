@@ -62,3 +62,21 @@
 </div>
 
 ###
+
+<br>
+
+## 🛣️ Minha trilha 
+|     CURSOS     |                           CERTIFICADOS                        | 
+|:--------------:|:------------------------------------------------------------: |
+|  HTML & CSS    | [CERTIFICADO](https://www.origamid.com/certificate/216b5688)  |  
+| Bootstrap      | [CERTIFICADO](https://www.origamid.com/certificate/8c0c937b)  |
+| UI & UX Design | [CERTIFICADO](https://www.origamid.com/certificate/43753c23)  |
+|      SASS      | [CERTIFICADO](https://www.origamid.com/certificate/47463a71)  |
+|  Git & Github  | [CERTIFICADO](https://hermes.dio.me/certificates/LWBW7LW5.pdf)|
+
+
+
+
+
+
+
