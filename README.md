@@ -1,7 +1,13 @@
 <h2 align="left">Hi 👋!</h2>
 
 ###### Sobre o Fabricio
-Cursando Análise e Desenvolvimento de Sistemas, desenvolvedor WEB, buscando novas experiencias para agregar na minha vida profissional.
+#### 🎯 Desenvolvedor Front-End apaixonado por criar interfaces modernas, acessíveis e responsivas.
+
+## 📚 Atualmente estudando: 
+- 🔥 JavaScript moderno (ES6+)
+- 🌐 Integração front-end e back-end com Node.js
+- 🫱🏼‍🫲🏼 Colaboração e trabalho em equipe com git e github
+  
 
 ###
 
